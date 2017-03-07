@@ -6,6 +6,15 @@ b{
 	font-variant: small-caps;
 }
 
+[epub|type~="z3998:salutation"]{
+	font-variant: small-caps;
+}
+
+[epub|type~="z3998:letter"] footer{
+	margin-top: 1em;
+	text-align: right;
+}
+
 [epub|type~="epigraph"]{
 	font-style: italic;
 	hyphens: none;
