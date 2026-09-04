@@ -30,9 +30,9 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Gadfly</dc:title>
 		<meta property="file-as" refines="#title">Gadfly, The</meta>
-		<dc:subject id="subject-1">Italy -- History -- Revolution of 1848 -- Fiction</dc:subject>
-		<dc:subject id="subject-2">Revolutionaries -- Fiction</dc:subject>
-		<dc:subject id="subject-3">Italy -- History -- 1815-1870 -- Fiction</dc:subject>
+		<dc:subject id="subject-1">Italy--History--Revolution of 1848--Fiction</dc:subject>
+		<dc:subject id="subject-2">Revolutionaries--Fiction</dc:subject>
+		<dc:subject id="subject-3">Italy--History--1815-1870--Fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
