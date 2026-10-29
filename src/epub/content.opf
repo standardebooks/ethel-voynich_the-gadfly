@@ -57,7 +57,7 @@
 		<dc:creator id="author">Ethel Voynich</dc:creator>
 		<meta property="file-as" refines="#author">Voynich, Ethel</meta>
 		<meta property="schema:alternateName" refines="#author">Ethel Lilian Voynich</meta>
-		<link href="https://en.wikipedia.org/wiki/Ethel_Lilian_Voynich" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/Ethel_Voynich" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n83141674.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
@@ -72,6 +72,7 @@
 		<dc:contributor id="transcriber-2">David Widger</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Widger, David</meta>
 		<link href="https://id.loc.gov/authorities/names/no2011017869.html" refines="#transcriber-2" rel="schema:sameAs"/>
+		<link href="https://www.gutenberg.net.au/widger/home.html" refines="#transcriber-2" rel="schema:url"/>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Alex Cabal</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Cabal, Alex</meta>
